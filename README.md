@@ -1,4 +1,7 @@
 # CNC-casera
+
+https://youtu.be/ieMgAqkWsmU
+
 Planos y esquemas para una CNC casera
 -PLANOS SKETCHUP
 En esta carpeta encontrarás los archivos Sketchup que se hicieron, para hacer esta máquina. Aquí podrás medir y revisar todo.
